@@ -33,5 +33,9 @@ sudo udevadm control --reload-rules && sudo udevadm trigger
 # log out and back in, then just:  python3 bhop.py
 ```
 
+## Related
+- **[hl2dm-linux-texture-fix](https://github.com/kababoom/hl2dm-linux-texture-fix)** — fix purple/missing custom-map textures on the native Linux HL2:DM client (companion client tool).
+- **[hl2dm](https://github.com/kababoom/hl2dm)** — server-side SourceMod plugins for the [S-UK] HL2:DM servers.
+
 ## License
 [MIT](LICENSE)
